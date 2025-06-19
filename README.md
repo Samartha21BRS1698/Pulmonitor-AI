@@ -91,14 +91,16 @@ Pulmonitor-AI/
 Steramlit UI landing page
 ![alt text](static/Streamlit_UI.png)
 
-## 🙌 Author
+## 🙌 Authors
 
 **Samartha**  
 B.Tech student 
 🎓 AI/ML • Data Science •  NLP • Google Cloud 
 🔗 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
 
+**Aadhith Sridharan**  
+Software Engineer Intern @ Center of Ophthalmology Data Analysis, Aravind Eye Hospital |
+🔗 [LinkedIn](https://www.linkedin.com/in/aadhith-sridharan-872788233/)
+
 📝 License
  MIT License © 2025 Samartha
-
- 
