@@ -88,6 +88,8 @@ Pulmonitor-AI/
 ├── README.md
 └── .gitignore
 ```
+Steramlit UI landing page
+![alt text](static/Streamlit_UI.png)
 
 ## 🙌 Author
 

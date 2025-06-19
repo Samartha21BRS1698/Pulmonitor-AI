@@ -1,1 +1,8 @@
-r
+tensorflow
+keras
+matplotlib
+numpy
+pandas
+opencv-python
+scikit-learn
+streamlit
