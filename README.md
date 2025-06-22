@@ -73,7 +73,7 @@ System architecture:
 ![image](https://github.com/user-attachments/assets/10a7b278-c37c-4eeb-ae7c-23681d6ea71f)
 
 
-📁 Folder Structure
+## 📁 Folder Structure
 
 ```bash
 Pulmonitor-AI/
@@ -88,7 +88,9 @@ Pulmonitor-AI/
 ├── README.md
 └── .gitignore
 ```
-Steramlit UI landing page
+
+##  Steramlit UI landing page
+
 ![alt text](static/Streamlit_UI.png)
 
 ## 🙌 Authors
